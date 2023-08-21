@@ -28,7 +28,7 @@ header{
 }
 
 .menu__nombre::before{
-	content: '🚀';
+	content: "✅"; 
 }
 
 .enlaces li:last-child{
